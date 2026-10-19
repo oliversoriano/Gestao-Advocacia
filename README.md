@@ -91,5 +91,3 @@ O sistema roda localmente no computador do escritório. O banco de dados e os an
 ## 👤 Autor
 
 **Oliver Soriano** — [GitHub](https://github.com/oliversoriano)
-
-Licença [MIT](LICENSE).
